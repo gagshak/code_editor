@@ -17,10 +17,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-"peerDependencies": {
-"react": ">=15.5 <=16.x",
-"codemirror": "5.x"
-},
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
