@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import 'codemirror/mode/htmlmixed/htmlmixed';
+import 'codemirror/lib/codemirror.css';
+import 'codemirror/theme/material.css';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
