@@ -6,11 +6,11 @@ import '../App.css'
 import CloseFullscreenIcon from '@mui/icons-material/CloseFullscreen';
 import { Controlled as CodeMirror } from 'react-codemirror2'
 
-import 'codemirror/lib/codemirror.css';
-import 'codemirror/theme/material.css';
-import 'codemirror/mode/xml/xml';
-import 'codemirror/mode/javascript/javascript';
-import 'codemirror/mode/css/css';
+// import 'codemirror/lib/codemirror.css';
+// import 'codemirror/theme/material.css';
+// import 'codemirror/mode/xml/xml';
+// import 'codemirror/mode/javascript/javascript';
+// import 'codemirror/mode/css/css';
 
 
 const Heading = styled(Box)`
